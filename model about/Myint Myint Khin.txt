@@ -1,7 +1,8 @@
-Name       Myint Myint Khin in the 1950s
-Born	   Khin Kyi 13 August 1934 (age 84)
-           Thanlyin, Pegu Province
-British    Burma
+Name        Myint Myint Khin
+Born	    Khin Kyi
+            13 August 1934 (age 84)
+            Thanlyin, Pegu Province
+British     Burma
 Other names	Rita Fairmen
 Years active	1949–1996
 Spouse(s)	Khin Maung Nyunt (1956–2010)
@@ -12,7 +13,6 @@ Awards	        Chit Nyima (1957)
                 Mohn Ba De, Maung Go (1973)
                 Mha Ta-Ba A-Cha Ma-Shi-Bi (1980)
                 Myitmo Taung Oo Ma Ka Kyu-Tha (1996)
-Facebook        https://www.facebook.com/public/Myint-Myint-Khin
 
 Myint Myint Khin (Burmese: ?????????????, pronounced [mj??? mj??? k??`?]; nicknamed Baby; born Khin Kyi [k??`? t?ì] on 13 August 1934) is a five-time Myanmar Academy Award winning Burmese film actress. She is considered one of the most talented actors of Burmese cinema. She is also the mother of well-known singer and actress May Sweet. 
 
@@ -20,7 +20,7 @@ Biography
 
 Myint Myint Khin was born Khin Kyi to Daw Saw Kyi and U Po Min, in Thanlyin in 1934, during the waning days of the British colonial era in Myanmar.[1] Her father, also known as E.A. Fairmen, was an Englishman from India.[2] Myint Myint Khin's English name is Rita Fairmen.[2] She attended a Yangon convent school up to seventh standard. She made her film debut in 1949 with Maya Shin. Not only was she one of the main leading actresses in the 1950s, Myint Myint Khin went on to win multiple (five) Burmese Academy Awards in her nearly five-decade-long career—a feat still unmatched among Burmese actresses.
 
-In her heyday in the 1950s, Myint Myint Khin also dabbled into a singing career and achieved moderate success. Her most famous hit, Naban Hsan, does remain a Burmese standard, having been covered numerous times by later singers, most famously by her singer daughter May Sweet. 
+In her heyday in the 1950s, Myint Myint Khin also dabbled into a singing career and achieved moderate success. Her most famous hit, Naban Hsan, does remain a Burmese standard, having been covered numerous times by later singers, most famously by her singer daughter May Sweet.
 
 Personal life
 
@@ -40,3 +40,4 @@ Filmography
    4 Mohn Ba De, Maung Go (1973)
    5 Mha Ta-Ba A-Cha Ma-Shi-Bi (1980)
    6 Myitmo Taung Oo Ma Ka Kyu-Tha (1996)
+
